@@ -1,6 +1,7 @@
 ## Project Setup
 
 ```sh
+Parmainit root info par SQL port un password
 npm install
 ```
 
